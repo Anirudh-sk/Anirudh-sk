@@ -17,7 +17,8 @@
 - 👯 I'm looking to collaborate on projects
 - 👨‍💻 Check out my portfolio https://portfolioanirudh.netlify.app/
 - 📫 How to reach me: <a href="mailto:amazinganirudhhere@gmail.com">amazinganirudhhere@gmail.com</a>
-- 📄 Looking to hire me ?, my **Resume**: [here](https://portfolioanirudh.netlify.app/static/media/ResumePDF.da9daffe.pdf)
+- 📄 Looking to hire me ? My **Resume**: [here](https://portfolioanirudh.netlify.app/static/media/ResumePDF.da9daffe.pdf)
+- 💼 Linked in : [here](https://www.linkedin.com/in/sai-anirudh-415001168/)
 
 <br>
 <hr />
@@ -34,7 +35,11 @@
 
 <h2> Github Stats </h2>
 <div class="stats" align="center"> 
-<a href="https://github.com/Anirudh-sk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh-sk&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
+
+<a align="left">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Anirudh-sk&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react&bg_color=20232a&hide_border=true" />
+</a>
 <a href="https://Anirudh-sk.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react](https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
 <a href="https://Anirudh-sk.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=discord&column=7&no-frame=true"></a><br><br>
 <a href="https://github.com/Anirudh-sk"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=Anirudh-sk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
@@ -42,7 +47,10 @@
 
 
   
- ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg">
+ 
+</div>
   
 <div align="center">
 <p>Visitors :</p>
