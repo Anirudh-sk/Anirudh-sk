@@ -1,71 +1,22 @@
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="230px" align="right" alt="Developer">
- 
-<p align="left"> 
- 🌎 <em>Hello people, my name is Pamella and i'm </em> <strong>Frontend Developer.</strong>
-</p>
-
-<p align="left">
- 🧬 Soft Skills: <strong> I am self-taught, proactive, communicative. </strong>
-</p>
- 
-<p align="left">
- ⚡ Hard Skills: <strong>Axios, HTML5, CSS3, SCSS, Bootstrap, Blazor, ReactJS, Typescript, Styled Components. </strong> 
-</p> 
-
-<p align="left">
- 📚 Studying: <strong>Firebase, NextJS, React Native, TailwindCSS.</strong>
-</p>
-
-<p align="left">
- 🖥️ Tools: <strong>Figma, Azure, Trello, Git, GitHub, Notion, VSCode. </strong> 
-</p> 
- 
-<p align="left">
- 💼 Works: <strong>Today work at CPQi Group.</strong>
-</p>
- 
-<p align="left">
- 📧 <strong>You can find me here:</strong> ⤵️
-</p>
-
-<div>
- 
-<p align="left">
-  <a href="https://mail.google.com/mail/u/?authuser=pamellafernandes118@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
- 
-  <a href="https://www.linkedin.com/in/pamella-fernandes-b83392196/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
-   
-  <a href="https://www.twitch.tv/ipamellafernandes" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-1C1C1C?&style=for-the-badge&logo=twitch&logoColor=0061C3"/></a>
-</p>
- 
+<div class="Introduction" align="center"> 
+<h1>Hi, I'm Anirudh-sk <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
 
 
-<br />
-<br />
-<br /> 
-<br /> 
-<br />
+<h2> Technologies </h2> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-sk&theme=react&layout=compact" alt="stats"/>
+<div class="technologies" align="left"><br>
+<img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=2965f1"> <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/Nodejs-323330?style=for-the-badge&logo=node.js"> <img src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm"> <img src="https://img.shields.io/badge/Yarn-323330?style=for-the-badge&logo=yarn"> <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express"> <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"> <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=cyan"> <img src="https://img.shields.io/badge/GO-323330?style=for-the-badge&logo=go"> <img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb">  <img src="https://img.shields.io/badge/Programming-323330?style=for-the-badge&logo=c"> <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-323330?style=for-the-badge&logo=visualstudiocode&logoColor=blue">   <img src="https://img.shields.io/badge/Windows%2011-323330?style=for-the-badge&logo=windows&logoColor=blue">
+</div>
 
 
 
-<p align="center" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamellafernandes&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="pamellafernandes" />
-</p>
 
 
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
-  
- ![Snake animation](https://github.com/pamellafernandes/pamellafernandes/blob/output/github-contribution-grid-snake.svg)
-  
-<div align="center">
-<p>Total de visitas no perfil:</p>
-<p>
-    <img src="https://profile-counter.glitch.me/pamellafernandes/count.svg"/>
-</p>
+<h2> Github Stats </h2>
+<div class="stats" align="center"> 
+<a href="https://github.com/Anirudh-sk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh-sk&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
+<a href="https://Anirudh-sk.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react](https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
+<a href="https://Anirudh-sk.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=discord&column=7&no-frame=true"></a><br><br>
+<a href="https://github.com/Anirudh-sk"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=Anirudh-sk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
 </div>
