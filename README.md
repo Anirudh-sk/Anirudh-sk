@@ -44,15 +44,15 @@
 </a>
 <a href="https://Anirudh-sk.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react](https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
 <a href="https://Anirudh-sk.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=discord&column=7&no-frame=true"></a><br><br>
-<a href="https://github.com/Anirudh-sk"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=Anirudh-sk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
+<!-- <a href="https://github.com/Anirudh-sk"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=Anirudh-sk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a> -->
 </div>
 
 
-  
+<!--   
 <div align="center">
 <img src="https://github.com/Anirudh-sk/Anirudh-sk/blob/output/github-contribution-grid-snake.gif">
  
-</div>
+</div> -->
   
 <div align="center">
 <p>Visitors :</p>
