@@ -37,7 +37,9 @@
 <div class="stats" align="center"> 
 
 <a align="left">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Anirudh-sk&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000) -->
+
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Anirudh-sk&theme=react&bg_color=20232a&hide_border=true" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react&bg_color=20232a&hide_border=true" />
 </a>
 <a href="https://Anirudh-sk.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-sk&theme=react](https://github-profile-trophy.vercel.app/?username=Anirudh-sk&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
