@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi, I'm Sai Anirudh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sai%20Anirudh👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+# Hi, I'm Sai Anirudh 
 
 ### Technical Product Manager | Building Products People Love | Entrepreneur
+
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-3EA9F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanirudh.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-anirudh-415001168/)
@@ -249,5 +252,6 @@ I'm always interested in discussing product strategy, technical architecture, an
 ---
 
 <sub>Built with ❤️ by Sai Anirudh</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
