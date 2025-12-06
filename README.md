@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Sai%20Anirudh👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-# Hi, I'm Sai Anirudh 
 
 ### Technical Product Manager | Building Products People Love | Entrepreneur
 
